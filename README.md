@@ -17,7 +17,7 @@ If you'd like to contribute to the project or build it yourself, follow these st
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tymanmimo/deepseek-desktop.git  
+   `git clone https://github.com/tymanmimo/deepseek-desktop.git`  
    `cd deepseek-desktop`
 
 3. Install dependencies:
